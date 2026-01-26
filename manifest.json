@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Forced Chess",
+  "version": "1.0",
+  "description": "Force yourself to do chess puzzles!",
+  "permissions": ["tabs", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "backgroundScript.js"
+  }
+}
