@@ -8,3 +8,5 @@ Force yourself to do chess puzzles on Lichess! This Chrome extension opens popup
 3: Enable "Developer mode" if it isn't already, and "Load unpacked" the folder with the unzipped zip
 
 4: Run the extension!
+
+AI was used for boilerplate extension code and inline suggestions, but it was mostly me making this
