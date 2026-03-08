@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Forced Chess",
-  "version": "1.0",
-  "description": "Force yourself to do chess puzzles!",
+  "name": "Forced Puzzles",
+  "version": "1.21",
+  "description": "Force yourself to do chess or scrabble puzzles!",
   "permissions": ["tabs", "activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html"
