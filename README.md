@@ -1,4 +1,4 @@
-# Forced Chess
+# Forced Puzzles
 Force yourself to do chess puzzles on Lichess! This Chrome extension opens popups however often you want of Lichess puzzles, so you no longer have an excuse for procrastination on improving your chess
 ## Setup
 1: Download the extension's code from the zip & unzip it
@@ -8,8 +8,17 @@ Force yourself to do chess puzzles on Lichess! This Chrome extension opens popup
 3: Enable "Developer mode" if it isn't already, and "Load unpacked" the folder with the unzipped zip
 
 4: Run the extension!
-## What did the last update do?
+## Update Log
+### 1.0
+Released the extension
+
+Had basic functionality of opening a Lichess puzzle after a customisable amount of time
+### 1.1
 Added a pause button
+### 1.2
+Renamed from Forced Chess to Forced Puzzles
+
+Added the ability to open puzzles on Chess.com and Woogles
 
 ---
 
