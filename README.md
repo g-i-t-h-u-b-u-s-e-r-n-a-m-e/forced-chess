@@ -1,5 +1,5 @@
 # Forced Puzzles
-Force yourself to do chess puzzles on Lichess! This Chrome extension opens popups however often you want of Lichess puzzles, so you no longer have an excuse for procrastination on improving your chess
+Force yourself to do chess or scrabble puzzles! This Chrome extension opens popups however often you want of puzzles, so you no longer have an excuse for procrastination on improving your chess/scrabble
 ## Setup
 1: Download the extension's code from the zip & unzip it
 
