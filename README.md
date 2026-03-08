@@ -20,6 +20,8 @@ Renamed from Forced Chess to Forced Puzzles
 
 Added the ability to open puzzles on Chess.com and Woogles
 
+1.21: Updated all the references to the old title
+
 ---
 
 AI was used for boilerplate extension code and inline suggestions, but it was mostly me making this
