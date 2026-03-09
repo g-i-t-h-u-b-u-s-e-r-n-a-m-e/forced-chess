@@ -22,6 +22,11 @@ Added the ability to open puzzles on Chess.com and Woogles
 
 1.21: Updated all the references to the old title
 
+### 1.27
+Removed the start button (figure if you're clicking on the extension icon, you want it to start; removes an unneccessary click)
+
+Bolded informational text on control panel
+
 ---
 
 AI was used for boilerplate extension code and inline suggestions, but it was mostly me making this
