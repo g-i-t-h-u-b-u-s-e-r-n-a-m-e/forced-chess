@@ -1,0 +1,17 @@
+body{
+    background-color: navy;
+    color: white;
+}
+p{
+    font-size: 150%;
+}
+h2{
+    font-size: 200%;
+}
+input, select{
+    font-size: 125%;
+}
+input[type="checkbox"] {
+  transform: scale(1.75);
+  margin: 10px;
+}   
