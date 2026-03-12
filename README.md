@@ -26,7 +26,9 @@ Added the ability to open puzzles on Chess.com and Woogles
 Removed the start button (figure if you're clicking on the extension icon, you want it to start; removes an unneccessary click)
 
 Bolded informational text on control panel
+### 1.3
+Added basic CSS for the control panel
 
 ---
 
-AI was used for boilerplate extension code and inline suggestions, but it was mostly me making this
+AI was used for boilerplate manifest.json and inline suggestions, but it was mostly me making this
