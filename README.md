@@ -28,6 +28,8 @@ Removed the start button (figure if you're clicking on the extension icon, you w
 Bolded informational text on control panel
 ### 1.3
 Added basic CSS for the control panel
+### 1.4
+Added support for ChessKid puzzles
 
 ---
 
