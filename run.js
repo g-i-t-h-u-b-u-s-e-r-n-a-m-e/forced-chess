@@ -30,6 +30,15 @@ async function openPuzzle() {
       }
     );
   }
+  else if (!document.getElementById("pause").checked && document.getElementById("site").value == 4) {
+    chrome.windows.create(
+      {
+        url: "https://www.chesskid.com/puzzles",
+        focused: true,
+        incognito: false,
+      }
+    );
+  }
   timmy = parseInt(document.getElementById("time").value, 10);
   setTimeout(() => {
         openPuzzle();
